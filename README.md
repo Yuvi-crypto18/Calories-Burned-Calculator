@@ -1,5 +1,3 @@
-Here’s a concise description you can use for a Git repository hosting a Calories Burned Calculator:
-
 Calories Burned Calculator
 A simple and user-friendly calculator to estimate calories burned based on activity type, duration, weight, and other relevant factors. Built for fitness enthusiasts, developers, and researchers to track and analyze energy expenditure. Supports various activities and customizable inputs for accurate results.
 
